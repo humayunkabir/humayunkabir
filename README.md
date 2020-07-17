@@ -5,7 +5,7 @@ Over the last five years, I've been engaged with web development focusing on int
 - 👯 I’m looking to collaborate on [volunteer-platform](https://github.com/humayunkabir/volunteer-platform).
 - 🤔 I’m looking for help with [volunteer-platform](https://github.com/humayunkabir/volunteer-platform) and [volunteer-platform-api](https://github.com/humayunkabir/volunteer-platform-api).
 - 📫 How to reach me: humayunkabir.cep@gmail.com
-⚡ Fun fact: Love to help people.
+- ⚡ Fun fact: Love to help people.
 <!--
 **humayunkabir/humayunkabir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
