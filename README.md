@@ -20,3 +20,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+<a href="#!">
+  <img src="https://github-readme-stats.vercel.app/api?username=humayunkabir" />
+</a>
+<a href="#!">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayunkabir&layout=compact" />
+</a>
