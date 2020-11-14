@@ -123,11 +123,11 @@ Here are some ideas to get you started:
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=humayunkabir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=humayunkabir&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=humayunkabir&&style=flat-square" align="center" />
 </div>  
  
